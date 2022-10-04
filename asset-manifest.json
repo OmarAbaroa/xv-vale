@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/xv-vale/static/css/main.19e19e02.css",
+    "main.js": "/xv-vale/static/js/main.f137bbda.js",
+    "static/js/787.1887af04.chunk.js": "/xv-vale/static/js/787.1887af04.chunk.js",
+    "static/media/invitationBgBlue.png": "/xv-vale/static/media/invitationBgBlue.1a2dca76035cc02b5365.png",
+    "index.html": "/xv-vale/index.html",
+    "main.19e19e02.css.map": "/xv-vale/static/css/main.19e19e02.css.map",
+    "main.f137bbda.js.map": "/xv-vale/static/js/main.f137bbda.js.map",
+    "787.1887af04.chunk.js.map": "/xv-vale/static/js/787.1887af04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19e19e02.css",
+    "static/js/main.f137bbda.js"
+  ]
+}
